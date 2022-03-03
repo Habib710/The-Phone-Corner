@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+#section1 {
+    background-image: url(img/Apple.jpg);
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 450px;
+
+
+}
+
+.bgcolor {
+    background-color: rgba(19, 18, 18, 0.959);
+    border: 2px solid rgb(255, 255, 255);
+}
+
+#error {
+    display: none;
+}
